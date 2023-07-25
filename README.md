@@ -85,6 +85,11 @@ Please enter the following commands to download the required libraries
   7. FDF
     >> pip install fpdf==1.7.2
 ```
+
+## GUI Images
+![Home Page](https://github.com/rokithkumar/LegalText/assets/75007002/f32eb1b4-9ac8-4f02-a167-9dc681d49130)
+![Input Page](https://github.com/rokithkumar/LegalText/assets/75007002/9a98a8d5-e8f1-40c0-80fb-7252df0325cc)
+
 ## Disclaimer
 
 LegalText is intended for research and educational purposes only. It is not a substitute for legal advice and should not be used as such. Users are responsible for verifying the accuracy and validity of the generated written statements before using them in legal proceedings.
