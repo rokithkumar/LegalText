@@ -18,7 +18,13 @@ LegalText is a groundbreaking automated written statement generator that empower
 ## Architecture
 ![Architecture](https://github.com/rokithkumar/LegalText/assets/75007002/5e74e576-13d8-47a4-ab30-29545be4cf66)
 
+## Supported Platforms
 
+LegalText supports the following platforms:
+
+- Windows
+- Linux
+- macOS
 
 ## How It Works
 
@@ -59,6 +65,26 @@ LegalText utilizes the following libraries and frameworks:
 - openai
 - fpdf
 
+## Installation of Libraries
+Please enter the following commands to download the required libraries
+```
+  1. OpenAI
+    >> pip install openai==0.27.1
+  2. Pytesseratc
+    >> pip install pytesseract==0.3.8
+  3. mysql.connector
+    >> pip install mysql-connector-python
+  4. Flask
+    >> pip install Flask==2.0.1
+  5. Python Docx
+    >> pip install python-docx==0.8.11
+  6. PyMyPDF
+    >> pip install PyMuPDF==1.18.17
+  7. Pillow
+    >> pip install Pillow==8.3.1
+  7. FDF
+    >> pip install fpdf==1.7.2
+```
 ## Disclaimer
 
 LegalText is intended for research and educational purposes only. It is not a substitute for legal advice and should not be used as such. Users are responsible for verifying the accuracy and validity of the generated written statements before using them in legal proceedings.
