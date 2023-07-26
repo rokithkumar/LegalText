@@ -114,7 +114,7 @@ docx_file_path = os.path.join(reference_folder, filename)
 # Perform text extraction on the specified docx file
 extracted_text = extract_docx_text(docx_file_path)
 
-openai.api_key = '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'
+openai.api_key = 'API_KEY'
 
 def get_gpt_response(prompt, max_tokens=100):
     try:
